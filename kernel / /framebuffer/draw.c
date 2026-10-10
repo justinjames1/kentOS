@@ -8,4 +8,3 @@ int*ctr = data;
 if(i==(int)end){ctr = 0;}
   
 }}
-
